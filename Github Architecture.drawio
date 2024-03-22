@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T05:28:45.668Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Safari/605.1.15" version="23.1.1" etag="sCHD4THLluai9z2TkyU6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T07:54:38.942Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15" etag="jGr4qwNSMAoW5phqO_7t" version="24.0.7" type="github">
   <diagram name="Page-1" id="qma6omicdPONd7MP2IDZ">
-    <mxGraphModel>
+    <mxGraphModel dx="1735" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AGUYcZojD6WzS64GIDaY-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="755" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AGUYcZojD6WzS64GIDaY-2" value="GitHub" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="765" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGUYcZojD6WzS64GIDaY-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Entra_Identity.svg;" vertex="1" parent="1">
+          <mxGeometry x="335" y="244.78" width="68" height="60.440000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="AGUYcZojD6WzS64GIDaY-4" value="Azure DH tenant" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="310" width="97" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGUYcZojD6WzS64GIDaY-5" value="GHEC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="765" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGUYcZojD6WzS64GIDaY-6" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="485" y="290" as="sourcePoint" />
+            <mxPoint x="715" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGUYcZojD6WzS64GIDaY-7" value="DH SSO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="563" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGUYcZojD6WzS64GIDaY-8" value="Azrure AD Groups" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="315" y="380" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGUYcZojD6WzS64GIDaY-9" value="Github Teams" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="735" y="380" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGUYcZojD6WzS64GIDaY-10" value="SG_GHEC-&amp;lt;Team Key&amp;gt; _Permissions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="260" y="440" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGUYcZojD6WzS64GIDaY-11" value="&amp;lt;Team Key &amp;gt;_Permission" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="680" y="440" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGUYcZojD6WzS64GIDaY-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="485" y="396" as="sourcePoint" />
+            <mxPoint x="705" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGUYcZojD6WzS64GIDaY-13" value="SG_GHEC-DT_W" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="260" y="510" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGUYcZojD6WzS64GIDaY-14" value="DT_W" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="685" y="510" width="230" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
